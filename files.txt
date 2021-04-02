@@ -1116,7 +1116,7 @@ www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S040W060_S035W055.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S040W065_S035W060.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S040W070_S035W065.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S040W075_S035W070.zip
-www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S044W177.zip
+www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S045W180_S040W175.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S045E140_S040E145.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S045E145_S040E150.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S045E165_S040E170.zip
@@ -1128,7 +1128,7 @@ www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S045W065_S040W060.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S045W070_S040W065.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S045W075_S040W070.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S045W080_S040W075.zip
-www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S045W177.zip
+www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S045W180_S040W175.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S050E035_S045E040.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S050E050_S045E055.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S050E065_S045E070.zip
@@ -1192,6 +1192,7 @@ www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S070W065_S065W060.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S070W070_S065W065.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S070W075_S065W070.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S070W080_S065W075.zip
+www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S070W180_S065W175.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S075E000_S070E005.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S075E005_S070E010.zip
 www.eorc.jaxa.jp/ALOS/aw3d30/data/release_v2012/S075E010_S070E015.zip
